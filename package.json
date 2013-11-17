@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "description": "TypeScript Research Spike",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "nopt": "~2.1.2",
+    "grunt-typescript": "~0.2.4",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
